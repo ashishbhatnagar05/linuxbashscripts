@@ -28,3 +28,6 @@ put below before -vmargs
 -vm
 /opt/jdk-10.0.2/bin
 -vmargs
+
+---ssh key generation:
+ssh-keygen -t rsa -C "email@gmail.com"
